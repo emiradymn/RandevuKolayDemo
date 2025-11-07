@@ -1,4 +1,4 @@
-# 🗓️ RandevuKolayDemo — Akıllı Randevu Yönetim Sistemi (.NET 8)
+# 🗓️ RandevuKolayDemo — Dijital Randevu Yönetim Platformu (.NET 8)
 
 **RandevuKolay**, işletmelerin randevu oluşturma ve yönetim süreçlerini dijitalleştirmek için geliştirilen modern bir rezervasyon platformudur.  
 Proje, **Clean Architecture** prensipleriyle inşa edilmiş olup, **.NET 8** altyapısı, **Entity Framework Core**, **PostgreSQL**, **Hangfire**, **MailKit**, **Identity**, **JWT** ve **FluentValidation** teknolojilerini bir araya getirir.
@@ -114,7 +114,7 @@ Chart.js grafikleriyle zenginleştirilmiş haftalık ve aylık rezervasyon anali
 ---
 
 ### 👤 Kullanıcı Profili  
-Kullanıcıların geçmiş randevularını ve kişisel bilgilerini görüntüleyebildiği alan.  
+Kullanıcıların aktif, geçmiş randevularını ve kişisel bilgilerini görüntüleyebildiği alan.  
 <img width="100%" alt="Kullanıcı Profili" src="assets/Kullanıcı_Profil.png" />
 
 ---
