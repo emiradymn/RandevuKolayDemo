@@ -73,80 +73,73 @@ Bu yapı, bağımlılıkları minimuma indirir, test edilebilirliği artırır v
 ---
 ## 📸 Uygulama Görselleri
 
-RandevuKolay arayüzü, kullanıcı deneyimi ve görsellik açısından modern bir tasarım anlayışıyla hazırlanmıştır.  
-Aşağıda uygulamanın temel ekranlarından bazı örnekler yer almaktadır 👇
-
----
-## 📸 Uygulama Görselleri
-
 RandevuKolay arayüzü, kullanıcı dostu ve modern bir tasarıma sahiptir.  
 Aşağıda uygulamanın farklı bölümlerine ait ekran görüntülerini inceleyebilirsiniz 👇  
 
 ---
-
 ### 🏠 Ana Sayfa  
 Kullanıcıların hizmet ve işletme bilgilerine kolayca ulaşabildiği modern açılış ekranı.  
-<img width="100%" alt="Ana Sayfa" src="https://github.com/user-attachments/assets/7a6bf134-29a9-4a76-ab02-caca5d9a026b" />
+<img width="100%" alt="Ana Sayfa" src="assets/Anasayfa.png" />
 
 ---
 
 ### 🏢 İşletme Detay Sayfası  
 İşletmeye ait hizmet, iletişim bilgisi ve randevu oluşturma ekranı.  
-<img width="100%" alt="İşletme Detay Sayfası" src="https://github.com/user-attachments/assets/6daf0951-562a-498a-92c2-745700ebdffe" />
+<img width="100%" alt="İşletme Detay Sayfası" src="assets/İşletme_Profili.png" />
 
 ---
 
 ### 🗂️ İşletmeler Sayfası  
 Tüm işletmelerin listelendiği, sektör filtrelemesi yapılabilen sayfa.  
-<img width="100%" alt="İşletmeler Sayfası" src="https://github.com/user-attachments/assets/d4850128-ad73-435b-8480-0efe412fab83" />
+<img width="100%" alt="İşletmeler Sayfası" src="assets/İşletmeler_Sayfası.png" />
 
 ---
 
 ### 📊 Rezervasyon Dashboard  
 Chart.js grafikleriyle zenginleştirilmiş haftalık ve aylık rezervasyon analiz ekranı.  
-<img width="100%" alt="Rezervasyon Dashboard" src="https://github.com/user-attachments/assets/222ee693-6ff2-4ac2-85e5-e9475966623a" />
+<img width="100%" alt="Rezervasyon Dashboard" src="assets/Rezervasyon_Dashboard.png" />
 
 ---
 
 ### 📅 Haftalık Randevu Programı  
 İşletmelerin haftalık randevularını görüntüleyebildiği dinamik takvim ekranı.  
-<img width="100%" alt="Haftalık Randevu Programı" src="https://github.com/user-attachments/assets/155bd4f2-2f2a-44bc-b62c-6f8879446d63" />
+<img width="100%" alt="Haftalık Randevu Programı" src="assets/Haftalik_Program.png" />
 
 ---
 
 ### 💇‍♀️ İşletmeye Özel Hizmet Ekleme  
 İşletmelerin sundukları hizmetleri (ücret, süre, açıklama) ekleyebildiği sayfa.  
-<img width="100%" alt="Hizmet Ekleme Sayfası" src="https://github.com/user-attachments/assets/b60b38d4-6136-47f0-99fa-9c63bf80e7c9" />
+<img width="100%" alt="Hizmet Ekleme Sayfası" src="assets/İşletme_Hizmet.png" />
 
 ---
 
 ### 👤 Kullanıcı Profili  
 Kullanıcıların geçmiş randevularını ve kişisel bilgilerini görüntüleyebildiği alan.  
-<img width="100%" alt="Kullanıcı Profili" src="https://github.com/user-attachments/assets/54436ab8-b1ea-4afa-a668-67987bf2b255" />
+<img width="100%" alt="Kullanıcı Profili" src="assets/Kullanıcı_Profil.png" />
 
 ---
 
 ### 🔐 Giriş (Login) Sayfası  
 Kimlik doğrulama işlemleri için modern ve responsive giriş ekranı.  
-<img width="100%" alt="Login Sayfası" src="https://github.com/user-attachments/assets/16e20efd-b27f-4775-8a1e-de3fb214d27d" />
+<img width="100%" alt="Login Sayfası" src="assets/Giriş.png" />
 
 ---
 
 ### 📝 Kullanıcı Kayıt Sayfası  
 Yeni kullanıcıların kolayca hesap oluşturabildiği kayıt ekranı.  
-<img width="100%" alt="Kullanıcı Kayıt Sayfası" src="https://github.com/user-attachments/assets/28c9c9d1-7862-427d-aa3e-0fe3bc3b8890" />
+<img width="100%" alt="Kullanıcı Kayıt Sayfası" src="assets/Kullanici_kayit.png" />
 
 ---
 
 ### 🏢 İşletme Kayıt Sayfası  
 İşletmelerin kayıt olurken sektör, hizmet türü ve çalışma bilgilerini ekleyebildiği sayfa.  
-<img width="100%" alt="İşletme Kayıt Sayfası" src="https://github.com/user-attachments/assets/10e6777e-952f-4334-ac33-3f39c34e7cae" />
+<img width="100%" alt="İşletme Kayıt Sayfası" src="assets/İşletme_Kayit.png" />
 
 ---
 
 ### 🗄️ Veritabanı Diyagramı  
 Clean Architecture yapısına uygun olarak oluşturulan PostgreSQL veritabanı ilişkileri.  
-<img width="100%" alt="Veritabanı Diyagramı" src="https://github.com/user-attachments/assets/8ce2bd30-5894-437e-9bc5-d21164b8c9bc" />
+<img width="100%" alt="Veritabanı Diyagramı" src="assets/DB_diagram.png" />
 
 ---
 
