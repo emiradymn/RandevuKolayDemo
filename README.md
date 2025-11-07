@@ -149,7 +149,7 @@ Clean Architecture yapısına uygun olarak oluşturulan PostgreSQL veritabanı i
 Bu repo, **Emir Adıyaman** tarafından geliştirilen **RandevuKolayDemo** uygulamasını tanıtmaktadır.  
 
 📢 **Canlı sürüm** yayınlandığında, bu sayfada veya ilgili canlı repoda bağlantı paylaşılacaktır.  
-Her türlü geri bildirim ve iş birliği teklifleri için [emiradymn.com.tr](https://emiradymn.com.tr) adresinden iletişime geçebilirsiniz.  
+Her türlü geri bildirim ve iş birliği teklifleri için [emiradymn.com.tr](http://emiradymn.com.tr) adresinden iletişime geçebilirsiniz.  
 
 ✨ **Yakında hizmete geçmesi dileğiyle...**
 
