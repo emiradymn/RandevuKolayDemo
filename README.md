@@ -144,12 +144,12 @@ Randevu oluşturulduktan sonra hem kullanıcıya hem de işletmeye otomatik olar
 
 ### 🕒 Günlük Bilgilendirme Maili  
 İşletmelere her sabah mesai başlangıcında o güne ait randevularını içeren bilgilendirme maili otomatik olarak gönderilir.  
-<img width="100%" alt="Günlük Bilgilendirme Maili" src="assets/Günlük_Bilgilendirme_mail.jpeg" />
+<img width="50%" alt="Günlük Bilgilendirme Maili" src="assets/Günlük_Bilgilendirme_mail.jpeg" />
 
 ---
 ### 🗄️ Veritabanı Diyagramı  
 Clean Architecture yapısına uygun olarak oluşturulan PostgreSQL veritabanı ilişkileri.  
-<img width="100%" alt="Veritabanı Diyagramı" src="assets/DB_diagram.png" />
+<img width="50%" alt="Veritabanı Diyagramı" src="assets/DB_diagram.png" />
 
 ---
 
