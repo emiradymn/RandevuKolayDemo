@@ -136,7 +136,17 @@ Yeni kullanıcıların kolayca hesap oluşturabildiği kayıt ekranı.
 <img width="100%" alt="İşletme Kayıt Sayfası" src="assets/İşletme_Kayit.png" />
 
 ---
+### ✉️ Randevu Bilgilendirme Maili  
+Randevu oluşturulduktan sonra hem kullanıcıya hem de işletmeye otomatik olarak gönderilen bilgilendirme e-postası.  
+<img width="100%" alt="Randevu Maili" src="assets/Randevu_mail.jpeg" />
 
+---
+
+### 🕒 Günlük Bilgilendirme Maili  
+İşletmelere her sabah mesai başlangıcında o güne ait randevularını içeren bilgilendirme maili otomatik olarak gönderilir.  
+<img width="100%" alt="Günlük Bilgilendirme Maili" src="assets/Günlük_Bilgilendirme_mail.jpeg" />
+
+---
 ### 🗄️ Veritabanı Diyagramı  
 Clean Architecture yapısına uygun olarak oluşturulan PostgreSQL veritabanı ilişkileri.  
 <img width="100%" alt="Veritabanı Diyagramı" src="assets/DB_diagram.png" />
