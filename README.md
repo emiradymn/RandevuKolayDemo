@@ -138,7 +138,7 @@ Yeni kullanıcıların kolayca hesap oluşturabildiği kayıt ekranı.
 ---
 ### ✉️ Randevu Bilgilendirme Maili  
 Randevu oluşturulduktan sonra hem kullanıcıya hem de işletmeye otomatik olarak gönderilen bilgilendirme e-postası.  
-<img width="100%" alt="Randevu Maili" src="assets/Randevu_mail.jpeg" />
+<img width="50%" alt="Randevu Maili" src="assets/Randevu_mail.jpeg" />
 
 ---
 
@@ -149,7 +149,7 @@ Randevu oluşturulduktan sonra hem kullanıcıya hem de işletmeye otomatik olar
 ---
 ### 🗄️ Veritabanı Diyagramı  
 Clean Architecture yapısına uygun olarak oluşturulan PostgreSQL veritabanı ilişkileri.  
-<img width="50%" alt="Veritabanı Diyagramı" src="assets/DB_diagram.png" />
+<img width="100%" alt="Veritabanı Diyagramı" src="assets/DB_diagram.png" />
 
 ---
 
